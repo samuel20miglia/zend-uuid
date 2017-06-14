@@ -15,3 +15,4 @@ clover.xml
 composer.lock
 coveralls-upload.json
 phpunit.xml
+/composer.phar
