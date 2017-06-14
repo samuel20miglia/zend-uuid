@@ -9,8 +9,6 @@
 
 namespace Zend\Uuid;
 
-
 final class Uuid
 {
 }
-

@@ -4,7 +4,7 @@
          bootstrap="vendor/autoload.php"
          colors="true">
     <testsuites>
-        <testsuite name="Zend\\Uuid Tests">
+        <testsuite name="Zend\\Uuid\\Test Tests">
             <directory>./test</directory>
         </testsuite>
     </testsuites>

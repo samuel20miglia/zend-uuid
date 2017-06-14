@@ -9,9 +9,6 @@
 
 namespace Zend\Uuid\Exception;
 
-
 final class InvalidUuidException extends \InvalidArgumentException
-
 {
 }
-

@@ -12,4 +12,3 @@ namespace Zend\Uuid\Exception;
 interface ExceptionInterface
 {
 }
-
